@@ -1,0 +1,6 @@
+{
+  "name": "Document Scanner with OCR",
+  "description": "Native Android document scanning app featuring automatic text recognition and OCR via Gemini with instant PDF, PNG, and TxT sharing.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
